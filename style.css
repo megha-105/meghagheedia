@@ -133,3 +133,8 @@ footer ul{
 footer a{
     color: white;
 }
+
+p{
+    font-family: 'Noto Sans TC', sans-serif;
+    letter-spacing: 0.8px;
+}
