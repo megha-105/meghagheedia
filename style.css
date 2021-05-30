@@ -59,7 +59,7 @@ a {
 
 .listItem-inline {
     display: inline;
-    padding: 0rem 1rem;
+    padding: 0rem 0.3rem;
 }
 
 /* nav area */
@@ -121,6 +121,7 @@ footer{
     color: white;
     border-top-right-radius: 2rem;
     text-align: center;
+    
     
 }
 .footer-heading{
